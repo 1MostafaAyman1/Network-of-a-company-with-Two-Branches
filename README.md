@@ -5,6 +5,15 @@
 
 
 
-#Note: you have to fast forward time till 2:00 so network devices are connected
+#Note: you have to fast forward the time first till 2:00 so network devices are connected
 
 ![image](https://github.com/1MostafaAyman1/Network-of-a-company-with-Two-Branches/assets/80271742/c032e8c9-0079-4474-bd69-b06244e819be)
+
+#Configurations: 
+Layer 2 switches : 
+1-Basic Configuraiton
+2-Vlans
+3-Trunk
+3-Spanning Tree Security (Rapid PVST)
+4-Arp inspection
+5-IP DHCP Snooping
