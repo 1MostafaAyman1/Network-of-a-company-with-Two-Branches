@@ -35,27 +35,29 @@ SSH-V2, console and remote acces username and password)
 
 9-DHCP snooping
 
-10-HSRP protocol
+10-ACL(Access control lists)
 
-11-DHCP service on (routers and servers "Relay agent")
+11-HSRP protocol
 
-12-NTP service on (Routers and servers)
+12-DHCP service on (routers and servers "Relay agent")
 
-13-Syslog server (using MD5 hashing)
+13-NTP service on (Routers and servers)
 
-14-DNS server
+14-Syslog server (using MD5 hashing)
 
-15-AAA server
+15-DNS server
 
-16-HTTP server
+16-AAA server
 
-17-NAT PAT
+17-HTTP server
 
-18-CDP
+18-NAT PAT
 
-19-Static routing
+19-CDP
 
-20-OSPF routing
+20-Static routing
+
+21-OSPF routing
 
 #Note: you have to fast forward the time first till 2:00 so network devices are connected
 
