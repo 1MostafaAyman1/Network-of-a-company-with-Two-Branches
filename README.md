@@ -13,7 +13,7 @@
 #The Devices used in this project:
 
 layer 2 switches, layer 3 switches , Routers, Servers, wireless controller
-APS(Access points),end-user devices
+and APS(Access points),end-user devices
 
 #The topologies used in this project:
 
@@ -63,7 +63,7 @@ Branch2:Router on a stick
 
 19-OSPF routing
 
-24-Wireless VLAn with wireless controller and two access points
+20-Wireless VLAn
 
 
 
