@@ -9,53 +9,59 @@
 
 ![image](https://github.com/1MostafaAyman1/Network-of-a-company-with-Two-Branches/assets/80271742/c032e8c9-0079-4474-bd69-b06244e819be)
 
-#Configurations: 
 
-1-Basic Configuraiton
+#The Devices used in this project:
 
-2-VLANS
+layer 2 switches, layer 3 switches , Routers, Servers, wireless controller
+APS(Access points),end-user devices
+
+#The topologies used in this project:
+
+Branch1:SVI(Switch virtual interface)
+
+Branch2:Router on a stick 
+
+#The Configurations: 
+
+1-Basic Configuration(Hostname,....)
+
+2-VLANS and inter-vlan-routing
 
 3-Acces and trunk ports
 
-4-port security
+4-Ether-channel
 
-5-DHCP snooping
+5-spanning-Tree protocol(Rapid PVST)
 
-6-ARP inespection
+5-port security
 
-7-spanning tree
+6-DHCP snooping
 
-9-spanning tree security
+7-ARP inespection
 
-10-etherchannel
+8-spanning tree security
 
-11-DHCP on routers and DHCP on servers
+9-HSRP protocol
 
-12-HSRP
+10-DHCP service on (routers and servers "Relay agent")
 
-12-static routing
+11-NTP service on (Routers and servers)
 
-13-OSPF routing
+12-Syslog server
 
-14-NTP on routers and NTP on Server
+13-DNS server
 
-15-CDP
+14-AAA server
 
-16-NATING
+15-HTTP server
 
-17-SYSLOG Server 
+16-Nat pat
 
-18-DNS Server
+17-CDP
 
-19-DHCP Server (Relay Agent)
+18-Static routing
 
-20-SYSLOG Server
-
-21-NTP Server
-
-22- AAA Server
-
-23-HTTP Server
+19-OSPF routing
 
 24-Wireless VLAn with wireless controller and two access points
 
