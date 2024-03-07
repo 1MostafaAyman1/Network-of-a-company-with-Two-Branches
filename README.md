@@ -16,7 +16,8 @@ Branch 2:Router on a stick
 
 #The Configurations: 
 
-1-Basic Configuration(Hostname,....)
+1-Basic Configuration(Hostname,Enable password,encryption,crypto-key,domain-name
+SSH-V2, console and remote acces username and password)
 
 2-VLANS(Wired and wireless) inter-vlan-routing
 
