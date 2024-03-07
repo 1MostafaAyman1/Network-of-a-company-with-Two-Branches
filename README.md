@@ -19,17 +19,17 @@ Branch 2:Router on a stick
 1-Basic Configuration(Hostname,Enable password,encryption,crypto-key,domain-name
 SSH-V2, console and remote acces username and password)
 
-2-VLANS(Wired and wireless) inter-vlan-routing
+2-VLANS(Wired,wireless) and inter-vlan-routing
 
 3-Acces and trunk ports
 
 4-Ether-channel
 
-5-spanning-Tree protocol(Rapid PVST)
+5-spanning-Tree protocol (Rapid PVST)
 
-6-port security(mac-add-sticky,violation-shutdown)
+6-port security (mac-add-sticky,violation-shutdown)
 
-7-spanning tree security(BPDU Guard,port-fast)
+7-spanning tree security (BPDU Guard,port-fast)
 
 8-ARP inespection
 
@@ -41,7 +41,7 @@ SSH-V2, console and remote acces username and password)
 
 12-NTP service on (Routers and servers)
 
-13-Syslog server
+13-Syslog server (using MD5 hashing)
 
 14-DNS server
 
