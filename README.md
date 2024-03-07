@@ -26,37 +26,37 @@ Branch2:Router on a stick
 
 5-spanning-Tree protocol(Rapid PVST)
 
-5-port security
+6-port security
 
-6-DHCP snooping
+7-DHCP snooping
 
-7-ARP inespection
+8-ARP inespection
 
-8-spanning tree security
+9-spanning tree security
 
-9-HSRP protocol
+10-HSRP protocol
 
-10-DHCP service on (routers and servers "Relay agent")
+11-DHCP service on (routers and servers "Relay agent")
 
-11-NTP service on (Routers and servers)
+12-NTP service on (Routers and servers)
 
-12-Syslog server
+13-Syslog server
 
-13-DNS server
+14-DNS server
 
-14-AAA server
+15-AAA server
 
-15-HTTP server
+16-HTTP server
 
-16-Nat pat
+17-Nat pat
 
-17-CDP
+18-CDP
 
-18-Static routing
+19-Static routing
 
-19-OSPF routing
+20-OSPF routing
 
-20-Wireless VLAn
+21-Wireless VLAn
 
 #Note: you have to fast forward the time first till 2:00 so network devices are connected
 
