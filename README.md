@@ -10,9 +10,9 @@ and APS(Access points),end-user devices
 
 #The topologies used in this project:
 
-Branch1:SVI(Switch virtual interface)
+Branch 1:SVI(Switch virtual interface)
 
-Branch2:Router on a stick 
+Branch 2:Router on a stick 
 
 #The Configurations: 
 
