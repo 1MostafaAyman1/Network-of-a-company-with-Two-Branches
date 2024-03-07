@@ -18,7 +18,7 @@ Branch 2:Router on a stick
 
 1-Basic Configuration(Hostname,....)
 
-2-VLANS and inter-vlan-routing
+2-VLANS(Wired and wireless) inter-vlan-routing
 
 3-Acces and trunk ports
 
@@ -26,13 +26,13 @@ Branch 2:Router on a stick
 
 5-spanning-Tree protocol(Rapid PVST)
 
-6-port security
+6-port security(mac-add-sticky,violation-shutdown)
 
-7-DHCP snooping
+7-spanning tree security(BPDU Guard,port-fast)
 
 8-ARP inespection
 
-9-spanning tree security
+9-DHCP snooping
 
 10-HSRP protocol
 
@@ -48,15 +48,13 @@ Branch 2:Router on a stick
 
 16-HTTP server
 
-17-Nat pat
+17-NAT PAT
 
 18-CDP
 
 19-Static routing
 
 20-OSPF routing
-
-21-Wireless VLAn
 
 #Note: you have to fast forward the time first till 2:00 so network devices are connected
 
